@@ -1,48 +1,126 @@
-# Terms of Service
+# Terms of Service  
+**Insights for App Store Connect**
 
-**Effective Date:** 05/16/2025
+**Effective Date:** February 10, 2026
 
-Welcome to *Insights for App Store Connect* ("the App"). By using this App, you agree to the following terms and conditions. If you do not agree with these terms, do not use the App.
+---
 
 ## 1. Acceptance of Terms
 
-By accessing or using the App, you confirm that you have read, understood, and agree to be bound by these Terms of Service.
-
-## 2. Use of the App
-
-The App is intended for use by developers who have valid credentials to access the App Store Connect API. You are solely responsible for:
-
-- Providing and securely managing your API credentials.
-- Complying with Apple's terms and policies when accessing their services.
-- Ensuring your use of the App complies with applicable laws and regulations.
-
-## 3. Data Handling
-
-- The App operates **entirely on-device** and does **not** transmit or store any data on external servers.
-- Your API credentials are stored securely on your device using Keychain.
-- Cached data is stored locally using UserDefaults and FileManager.
-- The App does not collect or share personal data or analytics.
-
-## 4. No Warranty
-
-The App is provided **"as is"** without warranties of any kind, either express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement.
-
-There is no guarantee that the App will function without errors or that it will be compatible with future updates to App Store Connect or iOS.
-
-## 5. Limitation of Liability
-
-In no event shall the developer be liable for any damages or losses arising out of your use of or inability to use the App, including but not limited to data loss, API access issues, or third-party service changes.
-
-## 6. Modifications
-
-These Terms of Service may be updated from time to time. You are responsible for reviewing the latest version. Continued use of the App after any updates constitutes acceptance of the revised terms.
-
-## 7. Termination
-
-You may stop using the App at any time. The developer reserves the right to terminate access to the App at their discretion, especially if these terms are violated.
-
-## 8. Contact
-
-If you have any questions about these Terms of Service, please contact the developer at support@sedlaceksolutions.com.
+By downloading, accessing, or using Insights for App Store Connect (“Insights”), you agree to these Terms of Service (“Terms”).  
+If you do not agree, do not use the app.
 
 ---
+
+## 2. Description of Service
+
+Insights provides a client application that displays App Store Connect analytics, transactions, customer reviews, and enables review response management.
+
+Insights is not affiliated with or endorsed by Apple, except through use of Apple-provided APIs and services.
+
+---
+
+## 3. Eligibility
+
+You must be legally able to enter into these Terms and comply with Apple’s applicable agreements, including the App Store Connect terms.
+
+---
+
+## 4. Accounts
+
+You must sign in using Sign in with Apple to use Insights.
+
+You are responsible for:
+
+- Maintaining the security of your device and Apple account
+- All activity conducted through your Insights account
+
+---
+
+## 5. App Store Connect Credentials
+
+You grant Insights permission to use your App Store Connect API credentials solely to:
+
+- Fetch analytics, transactions, and reviews
+- Submit developer responses to reviews
+
+You may revoke access at any time by disconnecting App Store Connect or revoking the key in App Store Connect.
+
+---
+
+## 6. Subscriptions & Payments
+
+At this time:
+
+- Paywall UI copy may exist
+- No payment processor or StoreKit subscription is active
+
+Future paid features may be introduced with updated terms.
+
+---
+
+## 7. Acceptable Use
+
+You agree not to:
+
+- Use Insights for unlawful purposes
+- Attempt to access data you do not own or control
+- Interfere with service security or integrity
+- Reverse engineer or misuse the service
+
+---
+
+## 8. Intellectual Property
+
+Insights and all related software, designs, and branding are owned by **Sedlacek Solutions LLC**.
+
+You retain ownership of your App Store Connect data.
+
+---
+
+## 9. Service Availability
+
+Insights is provided “as is” and “as available.”  
+We do not guarantee uninterrupted or error-free operation.
+
+---
+
+## 10. Termination
+
+You may stop using Insights at any time.
+
+We may suspend or terminate access if:
+
+- These Terms are violated
+- Required by law or Apple policies
+
+---
+
+## 11. Limitation of Liability
+
+To the maximum extent permitted by law, Sedlacek Solutions LLC shall not be liable for:
+
+- Lost revenue or data
+- Indirect or consequential damages
+- Issues arising from Apple services or App Store Connect availability
+
+---
+
+## 12. Governing Law
+
+These Terms are governed by the laws of the **State of Florida, United States**, without regard to conflict-of-law principles.
+
+---
+
+## 13. Changes to Terms
+
+We may update these Terms periodically.  
+Continued use constitutes acceptance of updated Terms.
+
+---
+
+## 14. Contact
+
+**Legal Entity:** Sedlacek Solutions LLC  
+**Email:** support@sedlaceksolutions.com  
+**Location:** Florida, United States
